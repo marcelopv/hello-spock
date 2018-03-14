@@ -1,0 +1,1 @@
+Hello-spock is a project to experiment Spock Test Framework features.
